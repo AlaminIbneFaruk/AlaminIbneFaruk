@@ -4,16 +4,16 @@
 
 <!-- Profile Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlaminIbneFaruk&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-dev" />
+  <img src="https://komarev.com/ghpvc/?username=AlaminIbneFaruk&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 <!-- Short About -->
-- 🔭 I’m currently working on **Tourism Management System**
-- 🌱 I’m currently learning **Advanced backend, system design, and performance optimization**
-- 👯 I’m looking to collaborate on **React/Node open source projects**
-- 💬 Ask me about **React, Express, MongoDB, Firebase, Stripe**
-- 🌐 My Portfolio: [Al-Amin.dev](https://alaminibefarukayon.netlify.app)
-- 📫 How to reach me: `alaminibnefarukayon@gmail.com`
+- 🔭 I’m currently working on **Tourism Management System**  
+- 🌱 I’m currently learning **Advanced backend, system design, and performance optimization**  
+- 👯 I’m looking to collaborate on **React/Node open source projects**  
+- 💬 Ask me about **React, Express, MongoDB, Firebase, Stripe**  
+- 🌐 Portfolio: [Al-Amin.dev](https://alaminibefarukayon.netlify.app)  
+- 📫 Reach me at: `alaminibnefarukayon@gmail.com`
 
 <!-- Skills Section -->
 <h2>🛠️ Tech Stack</h2>
@@ -32,7 +32,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminIbneFaruk&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Trophy (optional) -->
+<!-- GitHub Streak Stats -->
+<h2>🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminIbneFaruk&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Graph -->
+<h2>📊 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/api/?username=AlaminIbneFaruk&bg_color=0d1117&color=57e389&line=57e389&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Trophy -->
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlaminIbneFaruk&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
 </p>
@@ -40,10 +53,8 @@
 <!-- Connect with Me -->
 <h2>🌐 Connect with me</h2>
 <p align="left">
+  <a href="https://github.com/AlaminIbneFaruk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://linkedin.com/in/alamin-ibne-faruk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alaminibnefarukayon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoC
