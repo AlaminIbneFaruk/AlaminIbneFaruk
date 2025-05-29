@@ -23,9 +23,6 @@
 
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaminIbneFaruk&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <!-- Top Languages -->
 <p align="center">
