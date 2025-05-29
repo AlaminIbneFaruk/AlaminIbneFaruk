@@ -4,7 +4,7 @@
 
 <!-- Profile Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlaminIbneFaruk&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=alaminibnefaruk&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 <!-- Short About -->
@@ -26,25 +26,25 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminIbneFaruk&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminibnefaruk&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <h2>🔥 Contribution Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminIbneFaruk&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminibnefaruk&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Trophy -->
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlaminIbneFaruk&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alaminibnefaruk&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <!-- Connect with Me -->
 <h2>🌐 Connect with me</h2>
 <p align="left">
-  <a href="https://github.com/AlaminIbneFaruk" target="_blank">
+  <a href="https://github.com/alaminibnefaruk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/alamin-ibne-faruk" target="_blank">
