@@ -50,5 +50,12 @@
   <a href="https://github.com/AlaminIbneFaruk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/alamin-ibne-faruk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoC
+  <a href="https://linkedin.com/in/alamin-ibne-faruk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alaminibnefarukayon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+  <a href="https://alaminibnefarukayon.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-16A085?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
