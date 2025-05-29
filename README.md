@@ -38,12 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminIbneFaruk&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Contribution Graph -->
-<h2>📊 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=AlaminIbneFaruk&bg_color=0d1117&color=57e389&line=57e389&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 <!-- Trophy -->
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
