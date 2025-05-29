@@ -4,7 +4,7 @@
 
 <!-- Profile Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridoy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy-dev" />
+  <img src="https://komarev.com/ghpvc/?username=alamin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-dev" />
 </p>
 
 <!-- Short About -->
@@ -24,17 +24,17 @@
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridoy-dev&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alamin-dev&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Trophy (optional) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hridoy-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alamin-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <!-- Connect with Me -->
