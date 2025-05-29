@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Hridoy</h1>
+<h1 align="center">Hi 👋, I'm Al-Amin Ibne Faruk (Ayon)</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <!-- Profile Visitors -->
@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **Advanced backend, system design, and performance optimization**
 - 👯 I’m looking to collaborate on **React/Node open source projects**
 - 💬 Ask me about **React, Express, MongoDB, Firebase, Stripe**
-- 📫 How to reach me: `your.email@example.com`
-- ⚡ Fun fact: _I debug 99 problems but a semicolon ain't one._
+- 🌐 My Portfolio: [Al-Amin.dev](https://alaminibefarukayon.netlify.app)
+- 📫 How to reach me: `alaminibnefarukayon@gmail.com`
 
 <!-- Skills Section -->
 <h2>🛠️ Tech Stack</h2>
@@ -45,8 +45,5 @@
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" />
   </a>
 </p>
